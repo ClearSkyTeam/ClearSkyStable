@@ -1,8 +1,8 @@
 414: Production Server build [GOOD]
 
-__418: Stable build [CriticalBug] OpenChest->ClientCrash__
+423: Stable build
 
-422: Development build [TestState: Working]
+424: Development build [TestState: Working]
 
 Production builds are completly stable builds, wich were tested over an long period of time by one member of the ClearSkyTeam
 
@@ -14,6 +14,6 @@ Development Builds are in most cases the latest build. They mostly have experiem
 
 These builds are only ensured to start and throw no errors, although there are some TestStates that include:
 
-Working: ServerStart,Joining, no errors/crashes on Start&Join
-Safe: ServerStart, no errors/crashs on Start
+Safe: ServerStart,Joining, no errors/crashes on Start&Join
+Working: ServerStart, no errors/crashs on Start
 Starting: ServerStart
