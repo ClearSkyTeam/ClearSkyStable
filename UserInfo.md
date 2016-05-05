@@ -1,8 +1,8 @@
 414: Production Server build [GOOD]
 
-423: Stable build
+**423: Stable build**
 
-424: Development build [TestState: Working]
+425: Development build [TestState: Safe]
 
 Production builds are completly stable builds, which were tested over an long period of time by one member of the ClearSkyTeam
 
