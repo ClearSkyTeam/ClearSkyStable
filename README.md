@@ -1,3 +1,3 @@
 # ClearSkyStable
-This repository contains Data for the auto Updater <br>
-Feel free to PR if you think the newest Build is stable!
+This repository contains data for the Auto Updater in ClearSky<br>
+Feel free to create a Pull Request if you believe the latest build is stable!
